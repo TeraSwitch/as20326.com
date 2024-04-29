@@ -55,3 +55,5 @@
 2607:fdc0:2c0::/42,US,US-TX,Dallas,75207
 2607:fdc0:300::/42,JP,JP-13,Tokyo,140-0002
 2607:fdc0:3c0::/42,US,US-VA,Ashburn,20166
+2607:fdc0:500::/42,DE,DE-HE,Frankfurt,60437
+2607:fdc0:540::/42,US,US-NJ,Newark,07102
