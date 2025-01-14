@@ -1,8 +1,7 @@
 #TeraSwitch Inc. (AS20326) Self-published IP Geolocation
 #This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/draft-google-self-published-geofeeds-02
-#Last update: May 28, 2024
+#Last update: January 14, 2025
 #Contact: noc@teraswitch.com
-74.118.137.0/24,US,US-PA,Pittsburgh,15212
 74.118.142.0/24,US,US-CA,Los Angeles,90012
 204.16.241.0/24,US,US-PA,Pittsburgh,15212
 204.16.242.0/24,US,US-PA,Pittsburgh,15212
@@ -10,13 +9,15 @@
 204.16.244.0/24,US,US-PA,Pittsburgh,15212
 204.16.245.0/24,US,US-PA,Pittsburgh,15212
 205.196.166.0/23,US,US-PA,Pittsburgh,15212
-208.91.104.0/24,CA,CA-BC,Vancouver,V5M-2H1
 2607:fdc0::/42,US,US-PA,Pittsburgh,15212
-2607:fdc0:340::/42,CA,CA-BC,Vancouver,V5M-2H1
-2620:13d:2040::/42,US,US-CA,Los Angeles,90012
-45.45.156.0/24,US,US-PA,Pittsburgh,15212
+2607:fdc0:3c0::/42,US,US-VA,Ashburn,20147
+2607:fdc0:700::/42,US,US-WA,Seattle,98121
+2607:fdc0:740::/42,US,US-IL,Chicago,60616
+45.45.156.0/24,US,US-UT,Bluffdale,84065
 45.139.225.0/24,JP,JP-13,Tokyo,140-0002
 45.249.89.0/24,JP,JP-13,Tokyo,140-0002
+62.171.232.0/21,DE,DE-HE,Frankfurt,60437
+64.130.32.0/24,DE,DE-HE,Frankfurt,60437
 64.130.48.0/24,US,US-NJ,Newark,07102
 64.130.49.0/24,JP,JP-13,Tokyo,140-0002
 64.130.50.0/24,DE,DE-HE,Frankfurt,60437
@@ -32,23 +33,30 @@
 64.130.61.0/24,CA,CA-BC,Vancouver,V5M-2H1
 64.130.62.0/24,NL,NL-NH,Amsterdam,1012
 64.130.63.0/24,GB,GB-LND,London,4LH
+64.239.32.0/24,NL,NL-NH,Amsterdam,1012
+64.239.33.0/24,NL,NL-NH,Amsterdam,1012
+64.239.35.0/24,DE,DE-HE,Frankfurt,60437
+64.239.116.0/24,GB,GB-LND,London,4LH
+64.239.117.0/24,US,US-NJ,Newark,07102
 67.209.52.0/24,GB,GB-LND,London,4LH
 67.209.53.0/24,KR,KR-11,Seoul
 67.209.54.0/24,SG,SG-01,Singapore,139963
 67.209.55.0/24,SG,SG-01,Singapore,139963
 74.118.136.0/24,NL,NL-NH,Amsterdam,1012
+74.118.137.0/24,US,US-PA,Pittsburgh,15212
 74.118.138.0/24,US,US-PA,Pittsburgh,15212
 74.118.139.0/24,NL,NL-NH,Amsterdam,1012
 74.118.140.0/24,NL,NL-NH,Amsterdam,1012
 74.118.141.0/24,US,US-PA,Pittsburgh,15212
 74.118.143.0/24,NL,NL-NH,Amsterdam,1012
+96.62.200.0/21,US,US-NJ,Newark,07102
 141.98.216.0/24,US,US-NJ,Newark,07102
 141.98.217.0/24,IE,IE-D,Dublin,D12
 141.98.218.0/24,US,US-TX,Dallas,75207
 141.98.219.0/24,US,US-PA,Pittsburgh,15212
 154.6.156.0/22,US,US-PA,Pittsburgh,15212
 154.6.180.0/22,US,US-PA,Pittsburgh,15212
-157.52.132.0/24,US,US-VA,Ashburn,20147
+193.109.196.0/24,DE,DE-HE,Frankfurt,60437
 194.31.140.0/24,NL,NL-NH,Amsterdam,1012
 194.55.224.0/24,US,US-CA,Los Angeles,90012
 202.8.8.0/24,NL,NL-NH,Amsterdam,1012
@@ -62,12 +70,14 @@
 207.90.225.0/24,NL,NL-NH,Amsterdam,1012
 207.90.226.0/24,DE,DE-HE,Frankfurt,60437
 207.90.227.0/24,US,US-NJ,Newark,07102
+208.91.104.0/24,CA,CA-BC,Vancouver,V5M-2H1
 208.91.106.0/24,DE,DE-HE,Frankfurt,60437
 208.91.107.0/24,JP,JP-13,Tokyo,140-0002
 208.91.109.0/24,JP,JP-13,Tokyo,140-0002
 208.91.110.0/24,US,US-NJ,Newark,07102
 208.91.111.0/24,US,US-PA,Pittsburgh,15212
 208.91.111.0/25,US,US-PA,Pittsburgh,15212
+209.68.44.0/22,US,US-PA,Pittsburgh,15212
 2607:fdc0:40::/42,US,US-CA,Los Angeles,90012
 2607:fdc0:80::/42,NL,NL-NH,Amsterdam,1012
 2607:fdc0:100::/42,SG,SG-01,Singapore,139963
@@ -78,6 +88,7 @@
 2607:fdc0:280::/42,US,US-NJ,Newark,07102
 2607:fdc0:2c0::/42,US,US-TX,Dallas,75207
 2607:fdc0:300::/42,JP,JP-13,Tokyo,140-0002
+2607:fdc0:340::/42,CA,CA-BC,Vancouver,V5M-2H1
 2607:fdc0:400::/42,DE,DE-HE,Frankfurt,60437
 2607:fdc0:440::/42,US,US-PA,Pittsburgh,15212
 2607:fdc0:480::/42,US,US-PA,Pittsburgh,15212
