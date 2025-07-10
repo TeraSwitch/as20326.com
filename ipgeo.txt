@@ -1,6 +1,6 @@
 #TeraSwitch Inc. (AS20326) Self-published IP Geolocation
 #This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/draft-google-self-published-geofeeds-02
-#Last update: July 08, 2025
+#Last update: July 10, 2025
 #Contact: noc@teraswitch.com
 74.118.142.0/24,US,US-CA,Los Angeles,90012
 204.16.241.0/24,US,US-PA,Pittsburgh,15212
@@ -44,6 +44,7 @@
 45.206.62.0/23,GB,GB-LND,London,4LH
 45.207.0.0/23,US,US-NJ,Newark,07102
 45.207.24.0/24,US,US-NJ,Newark,07102
+45.207.164.0/23,US,US-NJ,Newark,07102
 45.249.89.0/24,JP,JP-13,Tokyo,140-0002
 62.84.160.0/21,GB,GB-LND,London,4LH
 62.171.232.0/21,DE,DE-HE,Frankfurt,60437
@@ -53,7 +54,7 @@
 64.130.36.0/23,US,US-NJ,Newark,07102
 64.130.40.0/23,DE,DE-HE,Frankfurt,60437
 64.130.42.0/23,NL,NL-NH,Amsterdam,1012
-64.130.44.0/24,None
+64.130.44.0/24,JP,JP-13,Tokyo,140-0002
 64.130.48.0/24,US,US-NJ,Newark,07102
 64.130.49.0/24,JP,JP-13,Tokyo,140-0002
 64.130.50.0/24,DE,DE-HE,Frankfurt,60437
@@ -66,7 +67,7 @@
 64.130.57.0/24,DE,DE-HE,Frankfurt,60437
 64.130.58.0/24,US,US-CA,Los Angeles,90012
 64.130.59.0/24,US,US-NJ,Newark,07102
-64.130.61.0/24,None
+64.130.61.0/24,IE,IE-D,Dublin,D12
 64.130.62.0/24,NL,NL-NH,Amsterdam,1012
 64.130.63.0/24,GB,GB-LND,London,4LH
 64.239.32.0/24,NL,NL-NH,Amsterdam,1012
@@ -190,10 +191,10 @@
 2607:fdc0:540::/42,US,US-NJ,Newark,07102
 2607:fdc0:580::/42,US,US-UT,Bluffdale,84065
 2607:fdc0:5c0::/42,NL,NL-NH,Amsterdam,1012
-2607:fdc0:780::/42,None
+2607:fdc0:780::/42,JP,JP-13,Tokyo,140-0002
 2607:fdc0:7c0::/42,NL,NL-NH,Amsterdam,1012
 2607:fdc0:800::/42,NL,NL-NH,Amsterdam,1012
-2607:fdc0:840::/42,None
+2607:fdc0:840::/42,IE,IE-D,Dublin,D12
 2607:fdc0:880::/42,DE,DE-HE,Frankfurt,60437
 2a04:ff00:840::/44,JP,JP-13,Tokyo,140-0002
 2a04:ff00:860::/44,NL,NL-NH,Amsterdam,1012
