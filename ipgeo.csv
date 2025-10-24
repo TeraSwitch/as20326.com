@@ -1,6 +1,6 @@
 #TeraSwitch Inc. (AS20326) Self-published IP Geolocation
 #This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/draft-google-self-published-geofeeds-02
-#Last update: October 13, 2025
+#Last update: October 24, 2025
 #Contact: noc@teraswitch.com
 74.118.142.0/24,US,US-CA,Los Angeles,90012
 204.16.241.0/24,US,US-PA,Pittsburgh,15212
@@ -112,8 +112,6 @@
 89.144.47.0/24,US,US-NJ,Newark,07102
 95.155.160.0/20,GB,GB-LND,London,4LH
 95.214.176.0/24,US,US-NJ,Newark,07102
-96.62.200.0/21,US,US-NJ,Newark,07102
-102.135.20.0/24,US,US-UT,Bluffdale,84065
 102.212.7.0/24,DE,DE-HE,Frankfurt,60437
 103.110.64.0/24,NL,NL-NH,Amsterdam,1012
 104.164.63.0/24,US,US-UT,Bluffdale,84065
@@ -152,7 +150,11 @@
 154.83.134.0/24,NL,NL-NH,Amsterdam,1012
 154.83.138.0/23,NL,NL-NH,Amsterdam,1012
 154.83.152.0/22,NL,NL-NH,Amsterdam,1012
+154.83.200.0/21,NL,NL-NH,Amsterdam,1012
+154.83.216.0/21,NL,NL-NH,Amsterdam,1012
+154.83.248.0/21,NL,NL-NH,Amsterdam,1012
 154.84.174.0/23,NL,NL-NH,Amsterdam,1012
+154.84.176.0/21,NL,NL-NH,Amsterdam,1012
 154.84.188.0/23,NL,NL-NH,Amsterdam,1012
 154.85.123.0/24,NL,NL-NH,Amsterdam,1012
 154.94.2.0/23,US,US-NJ,Newark,07102
@@ -162,7 +164,6 @@
 154.94.46.0/24,NL,NL-NH,Amsterdam,1012
 154.94.50.0/24,US,US-NJ,Newark,07102
 154.94.60.0/24,US,US-NJ,Newark,07102
-154.193.128.0/24,DE,DE-HE,Frankfurt,60437
 154.193.130.0/24,DE,DE-HE,Frankfurt,60437
 154.193.132.0/24,DE,DE-HE,Frankfurt,60437
 154.193.134.0/23,DE,DE-HE,Frankfurt,60437
@@ -176,7 +177,8 @@
 154.198.12.0/24,US,US-NJ,Newark,07102
 154.198.165.0/24,US,US-NJ,Newark,07102
 154.198.166.0/23,US,US-NJ,Newark,07102
-154.198.176.0/21,NL,NL-NH,Amsterdam,1012
+154.198.176.0/21,IE,IE-D,Dublin,D12
+154.199.160.0/19,NL,NL-NH,Amsterdam,1012
 154.202.4.0/24,US,US-NJ,Newark,07102
 154.202.75.0/24,US,US-NJ,Newark,07102
 154.222.118.0/23,DE,DE-HE,Frankfurt,60437
@@ -195,6 +197,7 @@
 156.233.54.0/24,US,US-NJ,Newark,07102
 156.233.69.0/24,US,US-NJ,Newark,07102
 156.233.70.0/24,US,US-NJ,Newark,07102
+156.233.88.0/21,IE,IE-D,Dublin,D12
 156.233.102.0/24,US,US-NJ,Newark,07102
 156.242.124.0/24,US,US-NJ,Newark,07102
 156.243.146.0/23,US,US-NJ,Newark,07102
@@ -223,6 +226,7 @@
 198.13.134.0/23,NL,NL-NH,Amsterdam,1012
 198.13.136.0/24,US,US-NJ,Newark,07102
 198.13.137.0/24,DE,DE-HE,Frankfurt,60437
+198.13.138.0/23,DE,DE-HE,Frankfurt,60437
 202.8.8.0/24,NL,NL-NH,Amsterdam,1012
 202.8.9.0/24,JP,JP-13,Tokyo,140-0002
 202.8.10.0/24,IE,IE-D,Dublin,D12
