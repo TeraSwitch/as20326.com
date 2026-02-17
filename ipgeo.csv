@@ -1,6 +1,6 @@
 #TeraSwitch Inc. (AS20326) Self-published IP Geolocation
 #This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/draft-google-self-published-geofeeds-02
-#Last update: February 10, 2026
+#Last update: February 17, 2026
 #Contact: noc@teraswitch.com
 74.118.142.0/24,US,US-CA,Los Angeles,90012
 204.16.241.0/24,US,US-PA,Pittsburgh,15212
@@ -36,9 +36,7 @@
 45.202.88.0/24,NL,NL-NH,Amsterdam,1012
 45.202.89.0/24,NL,NL-NH,Amsterdam,1012
 45.202.100.0/23,NL,NL-NH,Amsterdam,1012
-45.202.102.0/24,US,US-NJ,Newark,07102
 45.202.105.0/24,NL,NL-NH,Amsterdam,1012
-45.202.107.0/24,NL,NL-NH,Amsterdam,1012
 45.202.115.0/24,NL,NL-NH,Amsterdam,1012
 45.202.118.0/24,NL,NL-NH,Amsterdam,1012
 45.202.126.0/24,NL,NL-NH,Amsterdam,1012
@@ -143,6 +141,8 @@
 143.20.108.0/22,NL,NL-NH,Amsterdam,1012
 143.20.238.0/24,JP,JP-13,Tokyo,140-0002
 143.20.240.0/22,NL,NL-NH,Amsterdam,1012
+144.31.157.0/24,DE,DE-HE,Frankfurt,60437
+144.31.158.0/24,DE,DE-HE,Frankfurt,60437
 145.79.176.0/21,US,US-NJ,Newark,07102
 151.241.65.0/24,GB,GB-LND,London,4LH
 151.241.178.0/24,DE,DE-HE,Frankfurt,60437
@@ -246,7 +246,6 @@
 178.95.32.0/20,NL,NL-NH,Amsterdam,1012
 193.109.196.0/24,DE,DE-HE,Frankfurt,60437
 194.31.140.0/24,NL,NL-NH,Amsterdam,1012
-194.55.224.0/24,US,US-CA,Los Angeles,90012
 194.231.128.0/22,IE,IE-D,Dublin,D12
 198.13.129.0/24,US,US-CA,Los Angeles,90012
 198.13.130.0/23,SG,SG-01,Singapore,139963
@@ -292,7 +291,6 @@
 216.25.66.0/24,GB,GB-LND,London,4LH
 216.92.0.0/16,US,US-PA,Pittsburgh,15212
 216.170.96.0/22,NL,NL-NH,Amsterdam,1012
-217.216.168.0/21,US,US-NJ,Newark,07102
 217.216.224.0/20,NL,NL-NH,Amsterdam,1012
 217.216.240.0/20,DE,DE-HE,Frankfurt,60437
 217.217.40.0/21,US,US-NJ,Newark,07102
