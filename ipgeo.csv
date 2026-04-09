@@ -1,6 +1,6 @@
 #TeraSwitch Inc. (AS20326) Self-published IP Geolocation
 #This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/draft-google-self-published-geofeeds-02
-#Last update: April 08, 2026
+#Last update: April 09, 2026
 #Contact: noc@teraswitch.com
 74.118.142.0/24,US,US-CA,Los Angeles,90012
 204.16.241.0/24,US,US-PA,Pittsburgh,15212
@@ -180,18 +180,12 @@
 154.197.62.0/24,NL,NL-NH,Amsterdam,1012
 154.198.12.0/24,US,US-NJ,Newark,07102
 154.198.176.0/21,IE,IE-D,Dublin,D12
-154.202.4.0/24,US,US-NJ,Newark,07102
 154.222.68.0/22,DE,DE-HE,Frankfurt,60437
 154.222.112.0/22,DE,DE-HE,Frankfurt,60437
 154.222.118.0/23,DE,DE-HE,Frankfurt,60437
-154.222.120.0/21,DE,DE-HE,Frankfurt,60437
 154.222.152.0/21,NL,NL-NH,Amsterdam,1012
 156.229.26.0/24,US,US-NJ,Newark,07102
-156.229.228.0/23,US,US-NJ,Newark,07102
-156.229.230.0/23,US,US-NJ,Newark,07102
 156.229.232.0/22,US,US-NJ,Newark,07102
-156.229.248.0/22,US,US-NJ,Newark,07102
-156.229.252.0/23,US,US-NJ,Newark,07102
 156.233.10.0/23,US,US-NJ,Newark,07102
 156.233.88.0/21,IE,IE-D,Dublin,D12
 156.243.146.0/23,US,US-NJ,Newark,07102
