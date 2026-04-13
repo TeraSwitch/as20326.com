@@ -1,6 +1,6 @@
 #TeraSwitch Inc. (AS20326) Self-published IP Geolocation
 #This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/draft-google-self-published-geofeeds-02
-#Last update: April 12, 2026
+#Last update: April 13, 2026
 #Contact: noc@teraswitch.com
 74.118.142.0/24,US,US-CA,Los Angeles,90012
 204.16.241.0/24,US,US-PA,Pittsburgh,15212
@@ -13,11 +13,12 @@
 2607:fdc0:3c0::/42,US,US-VA,Ashburn,20147
 2607:fdc0:700::/42,US,US-WA,Seattle,98121
 2607:fdc0:740::/42,US,US-IL,Chicago,60616
+2.26.224.0/22,DE,DE-HE,Frankfurt,60437
 2.26.228.0/22,NL,NL-NH,Amsterdam,1012
 2.26.232.0/22,NL,NL-NH,Amsterdam,1012
+2.27.140.0/23,DE,DE-HE,Frankfurt,60437
 2.27.208.0/22,NL,NL-NH,Amsterdam,1012
 5.175.169.0/24,DE,DE-HE,Frankfurt,60437
-5.175.179.0/24,NL,NL-NH,Amsterdam,1012
 31.58.56.0/24,NL,NL-NH,Amsterdam,1012
 37.202.193.0/24,DE,DE-HE,Frankfurt,60437
 45.39.250.0/24,SG,SG-01,Singapore,139963
@@ -127,6 +128,7 @@
 95.214.176.0/24,US,US-NJ,Newark,07102
 103.110.64.0/24,NL,NL-NH,Amsterdam,1012
 104.164.42.0/24,US,US-NJ,Newark,07102
+109.121.47.0/24,DE,DE-HE,Frankfurt,60437
 135.136.144.0/24,US,US-UT,Bluffdale,84065
 141.11.119.0/24,SG,SG-01,Singapore,139963
 141.98.216.0/24,US,US-NJ,Newark,07102
@@ -156,7 +158,6 @@
 154.83.134.0/24,NL,NL-NH,Amsterdam,1012
 154.83.138.0/23,NL,NL-NH,Amsterdam,1012
 154.83.148.0/24,NL,NL-NH,Amsterdam,1012
-154.83.149.0/24,NL,NL-NH,Amsterdam,1012
 154.83.152.0/22,NL,NL-NH,Amsterdam,1012
 154.83.184.0/23,NL,NL-NH,Amsterdam,1012
 154.84.168.0/21,US,US-NJ,Newark,07102
@@ -175,6 +176,7 @@
 154.193.163.0/24,DE,DE-HE,Frankfurt,60437
 154.193.164.0/22,DE,DE-HE,Frankfurt,60437
 154.194.206.0/24,US,US-NJ,Newark,07102
+154.194.228.0/22,NL,NL-NH,Amsterdam,1012
 154.194.234.0/23,US,US-NJ,Newark,07102
 154.197.45.0/24,JP,JP-13,Tokyo,140-0002
 154.197.62.0/24,NL,NL-NH,Amsterdam,1012
@@ -190,7 +192,10 @@
 156.233.88.0/21,IE,IE-D,Dublin,D12
 156.243.146.0/23,US,US-NJ,Newark,07102
 156.243.148.0/23,US,US-NJ,Newark,07102
+156.245.164.0/22,NL,NL-NH,Amsterdam,1012
+156.245.172.0/22,US,US-NJ,Newark,07102
 156.246.30.0/24,DE,DE-HE,Frankfurt,60437
+156.249.124.0/22,US,US-NJ,Newark,07102
 166.0.20.0/22,DE,DE-HE,Frankfurt,60437
 166.0.24.0/22,DE,DE-HE,Frankfurt,60437
 166.0.28.0/22,NL,NL-NH,Amsterdam,1012
@@ -201,7 +206,6 @@
 167.148.210.0/24,JP,JP-13,Tokyo,140-0002
 168.222.116.0/22,DE,DE-HE,Frankfurt,60437
 169.40.80.0/20,NL,NL-NH,Amsterdam,1012
-169.40.208.0/20,DE,DE-HE,Frankfurt,60437
 169.40.224.0/20,NL,NL-NH,Amsterdam,1012
 181.215.23.0/24,DE,DE-HE,Frankfurt,60437
 181.215.23.0/24,US,US-NJ,Newark,07102
