@@ -1,6 +1,6 @@
 #TeraSwitch Inc. (AS20326) Self-published IP Geolocation
 #This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/draft-google-self-published-geofeeds-02
-#Last update: April 13, 2026
+#Last update: April 14, 2026
 #Contact: noc@teraswitch.com
 74.118.142.0/24,US,US-CA,Los Angeles,90012
 204.16.241.0/24,US,US-PA,Pittsburgh,15212
@@ -128,6 +128,7 @@
 95.214.176.0/24,US,US-NJ,Newark,07102
 103.110.64.0/24,NL,NL-NH,Amsterdam,1012
 104.164.42.0/24,US,US-NJ,Newark,07102
+108.165.24.0/22,DE,DE-HE,Frankfurt,60437
 109.121.47.0/24,DE,DE-HE,Frankfurt,60437
 135.136.144.0/24,US,US-UT,Bluffdale,84065
 141.11.119.0/24,SG,SG-01,Singapore,139963
@@ -247,7 +248,6 @@
 208.91.111.0/25,US,US-PA,Pittsburgh,15212
 209.68.0.0/18,US,US-PA,Pittsburgh,15212
 209.68.44.0/22,US,US-PA,Pittsburgh,15212
-209.236.200.0/22,DE,DE-HE,Frankfurt,60437
 212.134.180.0/22,DE,DE-HE,Frankfurt,60437
 212.134.184.0/22,DE,DE-HE,Frankfurt,60437
 212.134.192.0/22,DE,DE-HE,Frankfurt,60437
@@ -256,6 +256,7 @@
 216.25.65.0/24,US,US-UT,Bluffdale,84065
 216.25.66.0/24,GB,GB-LND,London,4LH
 216.92.0.0/16,US,US-PA,Pittsburgh,15212
+216.170.96.0/22,DE,DE-HE,Frankfurt,60437
 217.216.224.0/20,NL,NL-NH,Amsterdam,1012
 217.216.240.0/20,DE,DE-HE,Frankfurt,60437
 217.217.96.0/21,US,US-NJ,Newark,07102
