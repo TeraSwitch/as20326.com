@@ -1,6 +1,6 @@
 #TeraSwitch Inc. (AS20326) Self-published IP Geolocation
 #This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/draft-google-self-published-geofeeds-02
-#Last update: April 16, 2026
+#Last update: April 17, 2026
 #Contact: noc@teraswitch.com
 74.118.142.0/24,US,US-CA,Los Angeles,90012
 204.16.241.0/24,US,US-PA,Pittsburgh,15212
@@ -16,6 +16,8 @@
 2.26.224.0/22,DE,DE-HE,Frankfurt,60437
 2.26.228.0/22,NL,NL-NH,Amsterdam,1012
 2.26.232.0/22,NL,NL-NH,Amsterdam,1012
+2.26.240.0/22,DE,DE-HE,Frankfurt,60437
+2.26.244.0/22,DE,DE-HE,Frankfurt,60437
 2.27.140.0/23,DE,DE-HE,Frankfurt,60437
 2.27.208.0/22,NL,NL-NH,Amsterdam,1012
 5.175.169.0/24,DE,DE-HE,Frankfurt,60437
@@ -122,6 +124,7 @@
 82.47.232.0/21,DE,DE-HE,Frankfurt,60437
 82.139.237.0/24,NL,NL-NH,Amsterdam,1012
 82.163.96.0/21,US,US-UT,Bluffdale,84065
+85.237.92.0/22,DE,DE-HE,Frankfurt,60437
 87.232.81.0/24,NL,NL-NH,Amsterdam,1012
 89.106.8.0/23,GB,GB-LND,London,4LH
 89.106.10.0/23,DE,DE-HE,Frankfurt,60437
@@ -139,6 +142,7 @@
 141.98.219.0/24,US,US-PA,Pittsburgh,15212
 143.20.238.0/24,JP,JP-13,Tokyo,140-0002
 143.20.240.0/22,NL,NL-NH,Amsterdam,1012
+143.109.48.0/22,DE,DE-HE,Frankfurt,60437
 145.79.176.0/21,US,US-NJ,Newark,07102
 149.57.82.0/24,NL,NL-NH,Amsterdam,1012
 149.57.83.0/24,DE,DE-HE,Frankfurt,60437
@@ -209,7 +213,6 @@
 167.148.210.0/24,JP,JP-13,Tokyo,140-0002
 168.222.116.0/22,DE,DE-HE,Frankfurt,60437
 169.40.80.0/20,NL,NL-NH,Amsterdam,1012
-169.40.224.0/20,NL,NL-NH,Amsterdam,1012
 181.215.23.0/24,DE,DE-HE,Frankfurt,60437
 181.215.23.0/24,US,US-NJ,Newark,07102
 193.109.196.0/24,DE,DE-HE,Frankfurt,60437
@@ -235,9 +238,7 @@
 204.16.247.0/24,US,US-PA,Pittsburgh,15212
 205.186.88.0/22,DE,DE-HE,Frankfurt,60437
 205.186.116.0/22,NL,NL-NH,Amsterdam,1012
-207.90.224.0/24,JP,JP-13,Tokyo,140-0002
 207.90.225.0/24,NL,NL-NH,Amsterdam,1012
-207.90.226.0/24,DE,DE-HE,Frankfurt,60437
 207.90.227.0/24,US,US-NJ,Newark,07102
 207.189.20.0/24,US,US-PA,Pittsburgh,15212
 207.189.21.0/24,IE,IE-D,Dublin,D12
@@ -276,7 +277,6 @@
 2607:fdc0:2c0::/42,US,US-TX,Dallas,75207
 2607:fdc0:300::/42,JP,JP-13,Tokyo,140-0002
 2607:fdc0:340::/42,CA,CA-BC,Vancouver,V5M-2H1
-2607:fdc0:400::/42,DE,DE-HE,Frankfurt,60437
 2607:fdc0:440::/42,US,US-PA,Pittsburgh,15212
 2607:fdc0:480::/42,US,US-PA,Pittsburgh,15212
 2607:fdc0:4c0::/42,US,US-VA,Ashburn,20147
