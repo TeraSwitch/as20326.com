@@ -1,6 +1,6 @@
 #TeraSwitch Inc. (AS20326) Self-published IP Geolocation
 #This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/draft-google-self-published-geofeeds-02
-#Last update: April 26, 2026
+#Last update: April 27, 2026
 #Contact: noc@teraswitch.com
 74.118.142.0/24,US,US-CA,Los Angeles,90012
 204.16.241.0/24,US,US-PA,Pittsburgh,15212
@@ -133,6 +133,7 @@
 108.165.24.0/22,DE,DE-HE,Frankfurt,60437
 109.121.47.0/24,DE,DE-HE,Frankfurt,60437
 135.136.144.0/24,US,US-UT,Bluffdale,84065
+135.136.145.0/24,US,US-PA,Pittsburgh,15212
 141.11.119.0/24,SG,SG-01,Singapore,139963
 141.98.216.0/24,US,US-NJ,Newark,07102
 141.98.217.0/24,IE,IE-D,Dublin,D12
@@ -155,8 +156,6 @@
 154.82.16.0/24,US,US-NJ,Newark,07102
 154.82.193.0/24,GB,GB-LND,London,4LH
 154.82.195.0/24,GB,GB-LND,London,4LH
-154.83.130.0/24,NL,NL-NH,Amsterdam,1012
-154.83.134.0/24,NL,NL-NH,Amsterdam,1012
 154.83.138.0/23,NL,NL-NH,Amsterdam,1012
 154.83.152.0/22,NL,NL-NH,Amsterdam,1012
 154.83.184.0/23,NL,NL-NH,Amsterdam,1012
@@ -232,7 +231,6 @@
 205.186.88.0/22,DE,DE-HE,Frankfurt,60437
 205.186.116.0/22,NL,NL-NH,Amsterdam,1012
 207.90.225.0/24,NL,NL-NH,Amsterdam,1012
-207.90.227.0/24,US,US-NJ,Newark,07102
 207.189.20.0/24,US,US-PA,Pittsburgh,15212
 207.189.21.0/24,IE,IE-D,Dublin,D12
 208.91.104.0/24,CA,CA-BC,Vancouver,V5M-2H1
