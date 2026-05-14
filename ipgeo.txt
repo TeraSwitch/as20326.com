@@ -1,6 +1,6 @@
 #TeraSwitch Inc. (AS20326) Self-published IP Geolocation
 #This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/draft-google-self-published-geofeeds-02
-#Last update: May 13, 2026
+#Last update: May 14, 2026
 #Contact: noc@teraswitch.com
 74.118.142.0/24,US,US-CA,Los Angeles,90012
 204.16.241.0/24,US,US-PA,Pittsburgh,15212
@@ -13,7 +13,6 @@
 2607:fdc0:3c0::/42,US,US-VA,Ashburn,20147
 2607:fdc0:700::/42,US,US-WA,Seattle,98121
 2607:fdc0:740::/42,US,US-IL,Chicago,60616
-2.26.224.0/22,DE,DE-HE,Frankfurt,60437
 2.26.240.0/22,DE,DE-HE,Frankfurt,60437
 2.26.244.0/22,DE,DE-HE,Frankfurt,60437
 2.27.200.0/21,US,US-NJ,Newark,07102
@@ -129,7 +128,6 @@
 95.214.176.0/24,US,US-NJ,Newark,07102
 104.164.29.0/24,DE,DE-HE,Frankfurt,60437
 104.164.42.0/24,US,US-NJ,Newark,07102
-108.165.24.0/22,DE,DE-HE,Frankfurt,60437
 109.121.47.0/24,DE,DE-HE,Frankfurt,60437
 135.136.144.0/24,US,US-UT,Bluffdale,84065
 135.136.145.0/24,US,US-PA,Pittsburgh,15212
@@ -218,7 +216,6 @@
 198.13.140.0/23,DE,DE-HE,Frankfurt,60437
 198.13.142.0/24,IE,IE-D,Dublin,D12
 198.13.143.0/24,US,US-WA,Seattle,98121
-199.58.92.0/22,DE,DE-HE,Frankfurt,60437
 202.8.8.0/24,NL,NL-NH,Amsterdam,1012
 202.8.9.0/24,JP,JP-13,Tokyo,140-0002
 202.8.10.0/24,IE,IE-D,Dublin,D12
@@ -231,6 +228,7 @@
 207.90.225.0/24,NL,NL-NH,Amsterdam,1012
 207.189.20.0/24,US,US-PA,Pittsburgh,15212
 207.189.21.0/24,IE,IE-D,Dublin,D12
+207.241.184.0/24,GB,GB-LND,London,4LH
 208.91.104.0/24,CA,CA-BC,Vancouver,V5M-2H1
 208.91.105.0/24,US,US-VA,Ashburn,20147
 208.91.106.0/24,DE,DE-HE,Frankfurt,60437
@@ -241,15 +239,10 @@
 208.91.111.0/25,US,US-PA,Pittsburgh,15212
 209.68.0.0/18,US,US-PA,Pittsburgh,15212
 209.68.44.0/22,US,US-PA,Pittsburgh,15212
-212.134.180.0/22,DE,DE-HE,Frankfurt,60437
-212.134.184.0/22,DE,DE-HE,Frankfurt,60437
-212.134.192.0/22,DE,DE-HE,Frankfurt,60437
-212.134.200.0/22,DE,DE-HE,Frankfurt,60437
 216.25.64.0/24,US,US-NJ,Newark,07102
 216.25.65.0/24,US,US-UT,Bluffdale,84065
 216.25.66.0/24,GB,GB-LND,London,4LH
 216.92.0.0/16,US,US-PA,Pittsburgh,15212
-216.170.96.0/22,DE,DE-HE,Frankfurt,60437
 217.216.224.0/20,NL,NL-NH,Amsterdam,1012
 217.216.240.0/20,DE,DE-HE,Frankfurt,60437
 217.217.224.0/21,NL,NL-NH,Amsterdam,1012
