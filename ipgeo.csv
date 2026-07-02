@@ -1,6 +1,6 @@
 #TeraSwitch Inc. (AS20326) Self-published IP Geolocation
 #This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/draft-google-self-published-geofeeds-02
-#Last update: July 01, 2026
+#Last update: July 02, 2026
 #Contact: noc@teraswitch.com
 74.118.142.0/24,US,US-CA,Los Angeles,90012
 204.16.241.0/24,US,US-PA,Pittsburgh,15212
@@ -48,6 +48,7 @@
 63.254.183.0/24,NL,NL-NH,Amsterdam,1012
 63.254.183.0/24,DE,DE-HE,Frankfurt,60437
 63.254.185.0/24,US,US-NJ,Secaucus,07094
+63.254.186.0/24,US,US-VA,Ashburn,20147
 64.130.32.0/24,DE,DE-HE,Frankfurt,60437
 64.130.33.0/24,US,US-UT,Bluffdale,84065
 64.130.34.0/23,US,US-NJ,Newark,07102
@@ -131,6 +132,9 @@
 151.243.244.0/24,US,US-NJ,Newark,07102
 151.245.8.0/21,US,US-NJ,Newark,07102
 151.247.132.0/24,SG,SG-01,Singapore,139963
+153.52.174.0/24,US,US-PA,Pittsburgh,15212
+153.52.184.0/24,IE,IE-D,Dublin,D12
+153.52.185.0/24,US,US-UT,Bluffdale,84065
 154.6.156.0/22,US,US-PA,Pittsburgh,15212
 154.6.180.0/22,US,US-PA,Pittsburgh,15212
 154.82.193.0/24,GB,GB-LND,London,4LH
@@ -174,7 +178,6 @@
 167.148.204.0/24,US,US-UT,Bluffdale,84065
 167.148.207.0/24,US,US-NJ,Newark,07102
 167.148.210.0/24,JP,JP-13,Tokyo,140-0002
-168.222.116.0/22,DE,DE-HE,Frankfurt,60437
 181.215.23.0/24,NL,NL-NH,Amsterdam,1012
 181.215.23.0/24,US,US-NJ,Newark,07102
 181.215.23.0/24,DE,DE-HE,Frankfurt,60437
