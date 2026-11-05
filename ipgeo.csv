@@ -1,6 +1,6 @@
 #TeraSwitch Inc. (AS20326) Self-published IP Geolocation
 #This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/draft-google-self-published-geofeeds-02
-#Last update: November 04, 2026
+#Last update: November 05, 2026
 #Contact: noc@teraswitch.com
 74.118.142.0/24,US,US-CA,Los Angeles,90012
 204.16.241.0/24,US,US-PA,Pittsburgh,15212
@@ -107,7 +107,6 @@
 82.47.132.0/24,DE,DE-HE,Frankfurt,60437
 82.47.232.0/21,DE,DE-HE,Frankfurt,60437
 82.139.237.0/24,NL,NL-NH,Amsterdam,1012
-82.163.96.0/21,US,US-UT,Bluffdale,84065
 89.106.8.0/23,GB,GB-LND,London,4LH
 89.106.10.0/23,DE,DE-HE,Frankfurt,60437
 95.135.30.0/24,US,US-CA,Los Angeles,90012
@@ -133,7 +132,6 @@
 151.241.65.0/24,GB,GB-LND,London,4LH
 151.241.178.0/24,DE,DE-HE,Frankfurt,60437
 151.243.244.0/24,US,US-NJ,Newark,07102
-151.245.8.0/21,US,US-NJ,Newark,07102
 151.247.132.0/24,SG,SG-01,Singapore,139963
 153.52.174.0/24,US,US-PA,Pittsburgh,15212
 153.52.175.0/24,US,US-PA,Pittsburgh,15212
@@ -172,10 +170,6 @@
 156.249.124.0/22,US,US-NJ,Newark,07102
 166.1.42.0/24,GB,GB-LND,London,4LH
 166.1.74.0/24,SG,SG-01,Singapore,139963
-167.148.198.0/24,DE,DE-HE,Frankfurt,60437
-167.148.204.0/24,US,US-UT,Bluffdale,84065
-167.148.207.0/24,US,US-NJ,Newark,07102
-167.148.210.0/24,JP,JP-13,Tokyo,140-0002
 169.40.196.0/22,NL,NL-NH,Amsterdam,1012
 169.40.200.0/22,NL,NL-NH,Amsterdam,1012
 181.215.23.0/24,NL,NL-NH,Amsterdam,1012
@@ -186,7 +180,6 @@
 189.12.236.0/24,IE,IE-D,Dublin,D12
 189.12.249.0/24,US,US-PA,Pittsburgh,15212
 189.12.253.0/24,US,US-WA,Kent,98032
-193.109.196.0/24,DE,DE-HE,Frankfurt,60437
 194.31.140.0/24,NL,NL-NH,Amsterdam,1012
 198.13.129.0/24,US,US-CA,Los Angeles,90012
 198.13.130.0/23,SG,SG-01,Singapore,139963
@@ -221,6 +214,7 @@
 208.91.111.0/25,US,US-PA,Pittsburgh,15212
 209.68.0.0/18,US,US-PA,Pittsburgh,15212
 209.68.44.0/22,US,US-PA,Pittsburgh,15212
+209.222.248.0/24,JP,JP-13,Tokyo,140-0002
 212.17.235.0/24,US,US-UT,Bluffdale,84065
 216.25.64.0/24,US,US-NJ,Newark,07102
 216.25.65.0/24,US,US-UT,Bluffdale,84065
