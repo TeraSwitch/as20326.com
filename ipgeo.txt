@@ -1,6 +1,6 @@
 #TeraSwitch Inc. (AS20326) Self-published IP Geolocation
 #This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/draft-google-self-published-geofeeds-02
-#Last update: November 09, 2026
+#Last update: November 10, 2026
 #Contact: noc@teraswitch.com
 74.118.142.0/24,US,US-CA,Los Angeles,90012
 204.16.241.0/24,US,US-PA,Pittsburgh,15212
@@ -220,6 +220,8 @@
 216.25.66.0/24,GB,GB-LND,London,4LH
 216.92.0.0/16,US,US-PA,Pittsburgh,15212
 222.167.241.0/24,DE,DE-HE,Frankfurt,60437
+2602:f268:1::/48,GB,GB-LND,London,4LH
+2602:f268:3::/48,DE,DE-HE,Frankfurt,60437
 2607:f440::/32,US,US-PA,Pittsburgh,15212
 2607:fdc0:40::/42,US,US-CA,Los Angeles,90012
 2607:fdc0:80::/42,NL,NL-NH,Amsterdam,1012
